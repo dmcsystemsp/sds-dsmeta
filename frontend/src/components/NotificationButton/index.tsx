@@ -1,5 +1,5 @@
-import icon from "../assets/img/notification-icon.svg";
-import "../components/NotificationButton/style.css"
+import icon from "../../assets/img/notification-icon.svg";
+import "../SalesCard/style.css"
 
 function NotificationButton() {
     return (
